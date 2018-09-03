@@ -1,0 +1,25 @@
+-- English --
+
+Blob_T : Slime of darkness
+Blob_D : Slimy
+
+Fish_T : Fish of death
+Fish_D : Fish... with legs
+
+Goblin_T : Goblin of coruption
+Goblin_D : Clasic Goblin
+
+Lava_T : Lava
+Lava_D : Hot
+
+Mage_T : Mage
+Mage_D : Doing some magic and stuff
+
+Something_T : I have no idea
+Something_D : Seriously, I have not idea
+
+TRex_T : Tyranosaurus Rex
+TRex_D : Have short arms
+
+Yeti_T : Yeti
+Yeti_D : Nobody have photo of him
